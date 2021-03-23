@@ -1,9 +1,7 @@
 # mcacheZero
 Key/Value Store Caching System with LRU Algorithm.
 
-*This project is under experiment and development - not ready to use !!!*
-
-*This project is developed for my personal used. You may use it on your own risk or modify it as you wish.*
+*This project is developed for personal used. You may use it by your own risk and purpose !!!*
 
 
 **Example Usage: Write Always Mode**
